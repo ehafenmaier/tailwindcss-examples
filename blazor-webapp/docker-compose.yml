@@ -1,0 +1,6 @@
+﻿services:
+  blazorapptailwind:
+    image: blazorapptailwind
+    build:
+      context: .
+      dockerfile: Dockerfile
